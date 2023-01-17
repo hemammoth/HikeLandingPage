@@ -4,7 +4,7 @@ import Logo from '../assets/logo1.png'
 
 function Navbar() {
   return (
-    <div className="bg-white px-12 py-3 shadow">
+    <div className="bg-white px-24 py-3 shadow">
         <div className="flex flex-row justify-between items-center">
             <div>
                 <Link to='/'>

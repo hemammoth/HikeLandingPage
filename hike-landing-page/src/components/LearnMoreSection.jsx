@@ -7,10 +7,10 @@ function LearnMoreSection() {
         <div class="px-24 pt-48	pb-24 basis-1/2">
             <div>
                 <text className="font-medium text-6xl mb-3">
-                <span className="text-dark-green">Keep your </span>
-                <span className="text-bright-blue">workforce moving </span>
-                <span className="text-dark-green">with </span>
-                <span className="text-bright-green">Hike.</span>
+                    <span className="text-dark-green">Keep your </span>
+                    <span className="text-bright-blue">workforce moving </span>
+                    <span className="text-dark-green">with </span>
+                    <span className="text-bright-green">Hike.</span>
                 </text>
             </div>
             <div>
@@ -21,7 +21,7 @@ function LearnMoreSection() {
                 </div>
                 <div className="mt-6">
                     <button className="bg-bright-blue hover:bg-blue-700 text-white items-center px-4 py-2 rounded-lg shadow-sm">
-                        <text className="font-normal text-lg">
+                        <text className="font-normal text-base">
                             Learn More &#10230;
                         </text>
                     </button>

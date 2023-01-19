@@ -13,6 +13,9 @@ module.exports = {
       fontFamily: {
         'roboto': ['Roboto', 'sans-serif'],
       },
+      textUnderlineOffset: {
+        16: '16px',
+      },
     }
   },
   plugins: [],

@@ -2,7 +2,7 @@ import React from 'react'
 
 function StatsSection() {
   return (
-    <div className="flex flex-row bg-dark-green px-24 py-12">
+    <div className="flex flex-row bg-dark-green  font-roboto px-24 py-12">
         <div className="flex flex-col items-center w-48 basis-1/4">
             <text className="flex align-center text-bright-blue text-3xl font-bold mb-4">
                 100,000+
